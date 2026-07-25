@@ -1,1 +1,2 @@
 # BANK_NETWORK-_SECURITY_PROJECT
+Description: This is a GNS3-based Bank Network Security project. The project demonstrates how an Access Control List (ACL) can block ATM access to the Staff network while allowing normal communication for other devices." Files Included: network security of bank.gns3, project-files, final report, presentation. How to run: install GNS3, open the .gns3 project, start all devices, verify the router configuration, run ping tests to verify the ACL
